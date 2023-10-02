@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<module>
+  <sections>
+    <section name="General" modelist="false">
+      <page name="Info" content="info.html"/>
+    </section>
+    <section name="General" modelist="true">
+      <page name="Overview" content="overview.html"/>
+      <page name="Signal Flow" content="signalflow.html"/>
+      <page name="Looper" content="looper.html"/>
+    </section>
+    <section name="Effect Presets" modelist="true">
+      <page name="Microloop" content="microloop.html"/>
+      <page name="Glitch" content="glitch.html"/>
+      <page name="Granules" content="granules.html"/>
+      <page name="Multidelay" content="multidelay.html"/>
+      <page name="XYZABC" icon="img/led_orange.png" content="sympathetic.html"/>
+    </section>
+  </sections>
+</module>
